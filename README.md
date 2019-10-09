@@ -6,8 +6,7 @@ It's a very rudimentary shooter, but it illustrates the skeleton of a game being
 
 The code does contain some smart techniques, such as pre-allocation of objects so that it doesn't have to spend time on allocation later. But it also does not go as far as building free-lists and does linear searches for empty elements, so YMMV.
 
-Here's a screencapture
-![](GCX.GIF)
+![screenshot](/gcx.gif)
 
 What impressed me, though, is that it's extremely well documented, apart from havin a rudimentary build system in place (a couple of BAT files, aside from expecting some system variables set).
 
@@ -17,11 +16,13 @@ Running
 -------
 
 I could get it to run on dosbox by having QB45 in a directory, this source code in another and then doing
-dosbox -c 'mount c GCX' -c 'mount d QB45' -c 'SET PATH=D:'
+`dosbox -c 'mount c GCX' -c 'mount d QB45' -c 'SET PATH=D:'`
 
 then once in Dosbox, just:
+```
 Z:/> C:
 C:/> EDIT
+```
 
 Building
 --------
