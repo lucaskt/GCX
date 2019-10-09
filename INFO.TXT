@@ -1,0 +1,18 @@
+Galactic Cruise X
+
+Disclaimer:
+I do not assume any responsability for any damage this program may cause to its users in ANY way.
+
+Usage:
+This is a simple starship game in which you shoot enemies, there are no stages in it, if you get hit you die, if you hit a ship it dies. The Arrow keys control your ship and space shoots. There are two different enemy ships (I intend to increase that number in the future), one is "dumb" but when in great number it's shots will fill the screen and leave you with no way out, as for the other ship type, those are smarter but can become Kamikaze at times, their shots are quick and when in great number it's not so simple to get rid of them.
+
+The game consists of several matches and in every one of them you'll have up to 5 enemies, and every time you kill one there's a 20% chance another one will appear. At every ship you kill you earn points, at every match you win you earn points, at every life you lose you lose points. If your score goes over 10000 you'll get an extra-life, and the same goes for 20000, 30000 and so on. Killing a single enemy is quite simple but when faced with several of them thigs can get tough. There is a Hall of Fame in which your progress will be registered.
+
+There's is an important upgrade in this from GC, this game uses a energy bar system, which means your ship has a maximum amount of energy. Acelerating your ship in any direction costs you energy and so does shooting. Energy goes up quite fast, but if you really need it to recharge quickly, stop the ship (which sometimes can be a pain due to inertia and green shots coming your way), this way energy will go up twice as fast as it would if the ship were moving. If you run out of energy you can neither accelerate your ship nor shoot so remember to keep it up.
+
+This game was coded in assembly and BASIC, it is an upgrade of Galactic Cruise but in no way was Galactic Cruise's code replicated at any point. I made it so that it showed the user its FPS rate, it should always stay around 30, if it goes much lower or higher the game will probably become unplayable, if that's the case you can always ask that programmer friend of yours to change it ;-). Graphics were made on PP256 and were reutilized from GC (I HATE drawing).
+
+Anyway, I think this is it, fasten your seatbelt, charge the laser canon and have fun.
+
+lkt153
+www.lkt153.cjb.net

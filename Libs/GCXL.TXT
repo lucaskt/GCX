@@ -1,0 +1,10 @@
+CLRSCR............plot              DUMP..............plot
+INSTALLKEYB.......keyb              KEYDOWN...........keyb
+PLOT..............plot              PUTX..............plot
+UNINSTALLKEYB.....keyb              
+
+keyb              Offset: 00000010H  Code and data size: 11eH
+  INSTALLKEYB       KEYDOWN           UNINSTALLKEYB   
+
+plot              Offset: 000001e0H  Code and data size: d29eH
+  CLRSCR            DUMP              PLOT              PUTX

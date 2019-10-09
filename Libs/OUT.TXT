@@ -1,0 +1,16 @@
+Turbo Assembler  Version 3.1  Copyright (c) 1988, 1992 Borland International
+
+Assembling file:   KEYB.ASM
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  404k
+
+Turbo Assembler  Version 3.1  Copyright (c) 1988, 1992 Borland International
+
+Assembling file:   PLOT.ASM
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  404k
+
